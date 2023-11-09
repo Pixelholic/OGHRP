@@ -1,5 +1,5 @@
 # OGHRP
-**Open Guitar Hero Replacement Parts!
+**Open Guitar Hero Replacement Parts!**
 
 To use, Download the entire repository using the green "Code" button, or click on the  tables below for the parts you need.
 
