@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Frets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56e1a20fd683bbc6",
+  "active": "e6944b5a7af363c1",
   "lastOpenFiles": []
 }
