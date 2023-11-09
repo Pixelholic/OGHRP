@@ -71,7 +71,8 @@ To use, Download the entire repository using the green "Code" button, or click o
 | World Tour | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Xbox%20LP%20WT%205.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | Might need tape on back of fret!|
 | GH5        | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Xbox%20LP%20WT%205.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | Might need tape on back of fret!|
 | WoR        | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | N/A | [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl) | Might need tape on back of fret!|
-(all of these require ball bearing in the switches OR [brackets](https://github.com/Pixelholic/switch-bracket))
+
+(all mech frets require ball bearing in the switches OR [brackets](https://github.com/Pixelholic/switch-bracket))
 
 ### Silicone
 |**Controller**  | **360** | **Wii** | **PS2** | **PS3** | **Notes**        |
