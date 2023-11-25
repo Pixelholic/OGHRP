@@ -99,7 +99,7 @@ To use, Download the entire repository using the green "Code" button, or click o
 # Start / Select
 |**Controller**  | **360** | **Wii** | **PS2** | **PS3** | **Notes**        |
 | ---------- |:---:|:---:|:---:|:---:|:-------------|
-| Xplorer    |  [10mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/start%20sel%20(xplorer)%20(10mm).stl) [12.5mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/start%20sel%20(xplorer)%20(12.5mm).stl) | N/A | N/A | N/A | Use 12.5 if you're reusing the stock board|
+| Xplorer    |  [10mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select.stl) [12.5mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select%20(12.5mm).stl) | N/A | N/A | N/A | Use 12.5 if you're reusing the stock PCB|
 
 -----
 
