@@ -5,7 +5,7 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 **For PCBs**, use a service like JLCPCB or PCBWay. Chuck the gerber .zip at their website to order.
 
-**For Frets**, you'll need a 3D printer.
+**For Frets** and **Other Buttons** you'll need a 3D printer.
 
 -------------------------------------------------------------
 # PCBs
