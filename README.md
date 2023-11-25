@@ -97,9 +97,16 @@ To use, Download the entire repository using the green "Code" button, or click o
 ------
 
 # Start / Select
-|**Controller**  | **360** | **Wii** | **PS2** | **PS3** | **Notes**        |
-| ---------- |:---:|:---:|:---:|:---:|:-------------|
-| Xplorer    |  [10mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select.stl) [12.5mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select%20(12.5mm).stl) | N/A | N/A | N/A | Use 12.5 if you're reusing the stock PCB|
+|**Controller**  | Link | **Notes**        |
+| ---------- |:---:|:-------------|
+| SG | [Start/Select](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/SG%20Start%20Select.stl)| Start/Select are the same|
+| Xplorer |  [10mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select.stl) [12.5mm](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select%20(12.5mm).stl) | Use 12.5 if you're reusing the stock PCB|
+| LP | [Start](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl) [Select](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)| Start/Select are DIFFERENT|
+| WT/5 | [Start](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/WT-5%20Start.stl) [Select](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/WT-5%20Select.stl)| Start/Select are DIFFERENT|
+| WoR | x |Not Done Yet!|
+
+
+
 
 -----
 
