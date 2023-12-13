@@ -78,7 +78,7 @@ To use, Download the entire repository using the green "Code" button, or click o
 |**Controller**  | **360** | **Wii** | **PS2** | **PS3** | **Notes**        |
 | ---------- |:---:|:---:|:---:|:---:|:-------------|
 | SG         | N/A | N/A |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/SG%20Stock.stl)  | N/A | Odd model. Tune your printer!|
-| Xplorer    |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Wii%20Stock.stl)  | N/A | N/A | N/A | Works with all 3 models|
+| Xplorer    |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Xplorer%20Stock.stl)  | N/A | N/A | N/A | Works with all 3 models|
 | Kramer     | N/A | N/A |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  | N/A | 360/PS3 frets fit best|
 | Les Paul   |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Wii%20Stock.stl)  | N/A |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  | Complete! |
 | World Tour |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Wii%20Stock.stl)  |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  |  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)  | Complete!|
