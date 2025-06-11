@@ -143,16 +143,16 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 ## Pelican Aly and AJ (by @yazz_flutist)
 
-| **Part**      |                                                                  **Link**                                                                  |   **Notes**    |
-|---------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
-| Fret (Mech)   | [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZFRET_2025-06-03.zip) | @yazz_flutist  |
-| Fret Shim     |        [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/ballzbarbumber%20v3.f3d)        | @yazz_flutist  |
-| Strum         |         [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/strumballz%20v18.f3d)          | @yazz_flutist  |
-| Strum Bumper  |        [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/ballzbarbumber%20v3.f3d)        | @yazz_flutist  |
+| **Part**      |                                                                  **Link**                                                                  | **Credit**    |
+|---------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech)   | [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZFRET_2025-06-03.zip) | @yazz_flutist |
+| Fret Shim     |        [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/ballzbarbumber%20v3.f3d)        | @yazz_flutist |
+| Strum         |         [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/strumballz%20v18.f3d)          | @yazz_flutist |
+| Strum Bumper  |        [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/ballzbarbumber%20v3.f3d)        | @yazz_flutist |
 
 
 
-| **PCB**         |                                                                   **Link**                                                                   |   **Notes**    |
-|-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
-| Fret PCB (Mech) |  [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZFRET_2025-06-03.zip)  | @yazz_flutist  |
-| Strum PCB       | [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZMAINV2_2025-06-03.zip) | @yazz_flutist  |
+| **PCB**         |                                                                   **Link**                                                                   | **Credit**    |
+|-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret PCB (Mech) |  [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZFRET_2025-06-03.zip)  | @yazz_flutist |
+| Strum PCB       | [x](https://github.com/Pixelholic/OGHRP/blob/main/Pelican%20Aly%2BAJ%20(Credit%20GuitarsandScarves)/Gerber_BALLZ_BALLZMAINV2_2025-06-03.zip) | @yazz_flutist |
