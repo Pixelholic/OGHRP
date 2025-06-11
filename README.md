@@ -10,14 +10,15 @@ To use, Download the entire repository using the green "Code" button, or click o
 -------------------------------------------------------------
 
 ## Les Paul (Wii)
-| **Part**        |                                                    **Link**                                                     |  **Credit**   |
-|-----------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
-| Fret (Mech)     |            [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl)            |  Pixelholic   |
-| Fret (Silicone) |                [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Wii%20Stock.stl)                |  Pixelholic   |
-| Strum           |                                                       [x]                                                       | Not Done Yet! |
-| Start Button    |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
-| Select Button   |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
-| Whammy          | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
+| **Part**           |                                                    **Link**                                                     |  **Credit**   |
+|--------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech)        |            [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Wii%20LP%20WT%205%20WOR.stl)            |  Pixelholic   |
+| Fret (Silicone)    |                [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Wii%20Stock.stl)                |  Pixelholic   |
+| Strum              |                                                       [x]                                                       | Not Done Yet! |
+| Start Button       |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
+| Select Button      |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
+| Whammy             | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
+| Analog Stick Cover |         [x](https://github.com/Pixelholic/OGHRP/blob/main/covers/LP%20Wii%20Analog%20Stick%20Cover.stl)         |  Pixelholic   |
 
 
 | **PCB**         |                                                **Link**                                                |  **Credit**   |
@@ -50,7 +51,7 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 
 
-## World Tour / GH5
+## World Tour / GH5 (Wii/Xbox/PS3/PS3)
 
 | **Part**                   |                                        **Link**                                         |  **Credit**   |
 |----------------------------|:---------------------------------------------------------------------------------------:|:-------------:|
@@ -98,44 +99,42 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 ## SG
 
-| **Part**                     |                                                    **Link**                                                     |  **Credit**   |
-|------------------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
-| Fret (Mech) (95055/95157.xx) |                  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/XP%2095055.stl)                   |  Pixelholic   |
-| Fret (Mech) (95065)          |                                                       [x]                                                       | Not Done Yet! |
-| Fret (Silicone)              |              [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Xplorer%20Stock.stl)              |  Pixelholic   |
-| Strum                        |                                                       [x]                                                       | Not Done Yet! |
-| Start Button                 |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
-| Select Button                |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
-| Whammy                       | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
+| **Part**        |                                                    **Link**                                                     |  **Credit**   |
+|-----------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech)     |                [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/SG%20Stock.stl)                 |  Pixelholic   |
+| Fret (Silicone) |                                                       [x]                                                       | Not Done Yet! |
+| Strum           |                                                       [x]                                                       | Not Done Yet! |
+| Start Button    |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
+| Select Button   |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
+| Whammy          | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) |  doesntfazer  |
 
 
-| **PCB**         |                                                 **Link**                                                  |   **Credit**    |
-|-----------------|:---------------------------------------------------------------------------------------------------------:|:---------------:|
-| Fret (Mech)     | [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Fret%20(Mech)/Gerber_Fret%20(KMR_LP_XP)%206pin.zip) |  Not Done Yet!  |
-| Fret (Silicone) |                                                    [x]                                                    |  Not Done Yet!  |
-| Strum           |    [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Strum/Gerber_XP_KRMR_SG_2022-09-18.zip)          |  Not Done Yet!  |
+| **PCB**         |                                           **Link**                                            |   **Credit**    |
+|-----------------|:---------------------------------------------------------------------------------------------:|:---------------:|
+| Fret (Mech)     |                                              [x]                                              |  Not Done Yet!  |
+| Fret (Silicone) |                                              [x]                                              |  Not Done Yet!  |
+| Strum           | [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Strum/Gerber_XP_KRMR_SG_2022-09-18.zip) |  Not Done Yet!  |
 
 
 
 
 ## Kramer
 
-| **Part**                     |                                                    **Link**                                                     |  **Credit**   |
-|------------------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
-| Fret (Mech) (95055/95157.xx) |                  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/XP%2095055.stl)                   |  Pixelholic   |
-| Fret (Mech) (95065)          |                                                       [x]                                                       | Not Done Yet! |
-| Fret (Silicone)              |              [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Xplorer%20Stock.stl)              |  Pixelholic   |
-| Strum                        |                                                       [x]                                                       | Not Done Yet! |
-| Start Button                 |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
-| Select Button                |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
-| Whammy                       | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
+| **Part**        |                                                    **Link**                                                     |  **Credit**   |
+|-----------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech)     |          [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/Xbox%20LP%20WT%205.stl)                   |  Pixelholic   |
+| Fret (Silicone) |             [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/360%20PS3%20Stock.stl)             |  Pixelholic   |
+| Strum           |                                                       [x]                                                       | Not Done Yet! |
+| Start Button    |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
+| Select Button   |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
+| Whammy          | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
 
 
-| **PCB**         |                                                 **Link**                                                  |   **Credit**    |
-|-----------------|:---------------------------------------------------------------------------------------------------------:|:---------------:|
-| Fret (Mech)     | [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Fret%20(Mech)/Gerber_Fret%20(KMR_LP_XP)%206pin.zip) |  Not Done Yet!  |
-| Fret (Silicone) |                                                    [x]                                                    |  Not Done Yet!  |
-| Strum           |    [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Strum/Gerber_XP_KRMR_SG_2022-09-18.zip)          |  Not Done Yet!  |
+| **PCB**         |                                                 **Link**                                                  |  **Credit**   |
+|-----------------|:---------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech)     | [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Fret%20(Mech)/Gerber_Fret%20(KMR_LP_XP)%206pin.zip) | Not Done Yet! |
+| Fret (Silicone) |                                                    [x]                                                    | Not Done Yet! |
+| Strum           |    [x](https://github.com/Pixelholic/OGHRP/blob/main/pcb/Strum/Gerber_XP_KRMR_SG_2022-09-18.zip)          | Not Done Yet! |
 
 
 # 3rd Party Controllers
