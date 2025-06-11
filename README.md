@@ -76,15 +76,15 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 ## Xplorer
 
-| **Part**                     |                                                    **Link**                                                     |  **Credit**   |
-|------------------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
-| Fret (Mech) (95055/95157.xx) |                  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/XP%2095055.stl)                   |  Pixelholic   |
-| Fret (Mech) (95065)          |                                                       [x]                                                       | Not Done Yet! |
-| Fret (Silicone)              |              [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Xplorer%20Stock.stl)              |  Pixelholic   |
-| Strum                        |                                                       [x]                                                       | Not Done Yet! |
-| Start Button                 |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Select.stl)                |  Pixelholic   |
-| Select Button                |                [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/LP%20Start.stl)                 |  Pixelholic   |
-| Whammy                       | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
+| **Part**                                 |                                                    **Link**                                                     |  **Credit**   |
+|------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Fret (Mech) (95055/95157.xx)             |                  [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/mech/XP%2095055.stl)                   |  Pixelholic   |
+| Fret (Mech) (95065)                      |                                                       [x]                                                       | Not Done Yet! |
+| Fret (Silicone)                          |              [x](https://github.com/Pixelholic/OGHRP/blob/main/frets/silicone/Xplorer%20Stock.stl)              |  Pixelholic   |
+| Strum                                    |                                                       [x]                                                       | Not Done Yet! |
+| Start/Select Button (For Stock Silicone) |            [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select.stl)            |  Pixelholic   |
+| Start/Select Button (For Tactile Button) |      [x](https://github.com/Pixelholic/OGHRP/blob/main/Start%20Select/XP%20Start%20Select%20(12.5mm).stl)       |  Pixelholic   |
+| Whammy                                   | [doesntfazer@thangs.com](https://thangs.com/designer/tabitha.donley/3d-model/whammy360_wt%20v6%20v1.stl-789602) | doesntfazer   |
 
 
 | **PCB**         |                                                 **Link**                                                  |  **Credit**   |
