@@ -9,6 +9,14 @@ To use, Download the entire repository using the green "Code" button, or click o
 
 -------------------------------------------------------------
 
+## CRKD Les Paul
+
+| **Part**          | **Link** |  **Credit**   |
+|-------------------|:--------:|:-------------:|
+| Mech Fret Stopper |  [x](https://github.com/Pixelholic/OGHRP/blob/main/CRKD/crkd-mech-fret-stopper.3mf)   | 760 Creations |
+
+
+
 ## Les Paul (Wii)
 | **Part**           |                                                    **Link**                                                     |  **Credit**   |
 |--------------------|:---------------------------------------------------------------------------------------------------------------:|:-------------:|
